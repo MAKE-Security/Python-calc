@@ -5,9 +5,9 @@ c=int(input("연산자를 입력하세요: "))
 
 if(c == 1):
     print("값:",a[0]+a[1])
-if(c == 2):
+elif(c == 2):
     print("값:",a[0]-a[1])
-if(c == 3):
+elif(c == 3):
     print("값:",a[0]*a[1])
-if(c == 4):
+elif(c == 4):
     print("값:",a[0]/a[1])
