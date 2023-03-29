@@ -3,3 +3,4 @@
 
 ## 링크
 kms&psj https://docs.google.com/presentation/d/11tm_NPruDL6CZwdDISikeoKgQsUJsAi3AI_ji9U1bvk/edit?usp=sharing
+박세진 & 김민수
